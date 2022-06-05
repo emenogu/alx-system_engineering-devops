@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find . -mindepth 1 -type d | wc -1
+=======
+find . -type d -not -name '.' | wc -1
+>>>>>>> 224a50181d0f96b4c0649a2f8ad448f8efe3008e
