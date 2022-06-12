@@ -1,1 +1,1 @@
-This training illustrates Shell variables and expansions
+Info on variables and expansions
